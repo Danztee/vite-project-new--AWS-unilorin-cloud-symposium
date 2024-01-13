@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 
 STEP BY STEP DEPLOYMENT ON AMAZON EC2 GOOGLE DOCS
 https://docs.google.com/document/d/1rvK0iyPMMiZlRZ05U2OuIbvqpDQfq77tHymOG13WV3M/edit
+
+LINK TO GOOGLE DOCS PRSENTATION
+https://docs.google.com/presentation/d/1JY6WoY831ILuWC53HMSFVPBVWiqJaJVn/edit#slide=id.p12
